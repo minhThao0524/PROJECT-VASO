@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Lato:wght@100;400&family=Manrope:wght@200&family=Merriweather:wght@300&family=Montserrat&family=Mulish:wght@300;500&family=Playfair+Display:ital,wght@0,400;1,500&family=Poppins:wght@200;500&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100&family=Rufina:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Italiana&family=Lato:wght@100;400&family=Manrope:wght@200&family=Merriweather:wght@300&family=Montserrat&family=Mulish:wght@300;500&family=Playfair+Display:ital,wght@0,400;1,500&family=Poppins:wght@200;500&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100&family=Rufina:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    display: block;
+}
+body{
+    background: #f7f7f7;
+
+}
