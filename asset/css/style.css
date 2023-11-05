@@ -478,7 +478,7 @@ li{
 /* *background */
 .background{
     background-position: center;
-    background: url(../img/backgr2.jpg);
+    background: url(https://demo.templatesjungle.com/vaso/images/video-image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -569,7 +569,7 @@ li{
     align-items: center;
 }
 .group-by-frist{
-    background: url(../img/banner-img2.jpg);
+    background: url(https://demo.templatesjungle.com/vaso/images/banner-img2.jpg);
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover;
@@ -579,7 +579,7 @@ li{
 
 }
 .group-by-second{
-    background: url(../img/banner-img3.jpg);
+    background: url(https://demo.templatesjungle.com/vaso/images/banner-img3.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -590,7 +590,7 @@ li{
     margin-top: 20px;
 }
 .group-by-one{
-    background: url(../img/banner-img1.jpg);
+    background: url(https://demo.templatesjungle.com/vaso/images/banner-img1.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
